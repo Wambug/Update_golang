@@ -11,4 +11,4 @@ For the Update to take place you have to change the go version i.e
 - chmod +x update-go.sh
 
 
-- ./update-go.sh
+- sudo ./update-go.sh
