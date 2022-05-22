@@ -1,5 +1,5 @@
 # Update_golang
-Simple script to update golang in linux
+Simple script to update golang in ubuntu
 
 
 For the Update to take place you have to change the go version i.e
